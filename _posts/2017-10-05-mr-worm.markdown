@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Stuffed Worm"
+date:   2017-10-06 18:48:03 -0700
+categories:
+  - yarn
+cover: stuffed_worm.jpg
+---
+
+This is a stuffed worm I crocheted and wrapped around a pedestrian bollard
+in front of Spinster Sisters.

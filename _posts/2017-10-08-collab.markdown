@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Collaboration Mural"
+date:   2017-10-08 18:48:03 -0700
+categories:
+  - mural
+cover: collab_a.jpg
+---
+
+This is a collaboration I did with a local street and tattoo artist.
+I painted the geometric background, and he spray painted the foreground.

@@ -16,11 +16,11 @@ layout: default
 </div>
 <div class="row">
   <div
-  class="col-md-6{% if page.other_images.size > 0 %} col-md-push-6{% endif %}">
+  class="col-md-4{% if page.other_images.size > 0 %} col-md-push-8{% endif %}">
     {{ content }}
   </div>
   {% if page.other_images.size > 0 %}
-    <div class="col-md-6 col-md-pull-6 other-images">
+    <div class="col-md-8 col-md-pull-4 other-images">
       {% for img in page.other_images %}
         <div class="row">
           <div class="col-xs-12">
@@ -42,7 +42,7 @@ layout: default
               </div>
             {% else %}
               <img
-              src="{{ img | prepend: site.baseurl }}"
+              src="{{ img | prepend: "/images/720/" | prepend: site.baseurl }}"
               class="img-responsive">
               </img>
             {% endif %}
